@@ -1,0 +1,11 @@
+os: osx
+osx_image: 
+  - xcode9	
+  - xcode8.3	
+  - xcode8.2	
+  - xcode8.1	
+  - xcode8	
+  - xcode7.3 
+  - xcode6.4	
+language: java
+script: java -version
